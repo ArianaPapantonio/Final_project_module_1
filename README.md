@@ -1,72 +1,72 @@
-# 🐍 Proyecto Final Módulo 1 - Juegos clásicos en Python 
+# 🐍 Final Project Module 1 – Classic Games in Python
 
-Este proyecto fue desarrollado por **Elena**, **Macarena**, **Patricia** y **Ariana** como parte del **Módulo 1: Python Básico** en el curso de **Data Analytics** de **Adalab**.  
-Nuestro objetivo fue crear **tres juegos interactivos en Python**, con un **cuarto juego añadido como bonus**.
-
----
-
-## 🎮 Juegos Incluidos
-
-- **Piedra, Papel o Tijera**  
-  Juega contra el ordenador el clásico juego de estrategia.
-
-- **Ahorcado**  
-  Adivina la palabra secreta antes de que se complete el dibujo.
-
-- **Preguntas y Respuestas (Geografía)**  
-  Responde correctamente a preguntas aleatorias sobre geografía mundial.
-
-- **Tic-Tac-Toe (Tres en Raya) [Bonus]**  
-  Compite en un clásico tres en raya contra otro jugador.
+This project was developed by **Elena**, **Macarena**, **Patricia**, and **Ariana** as part of **Module 1: Basic Python** in the **Adalab Data Analytics Bootcamp**.  
+Our goal was to create **three interactive games in Python**, with a **fourth bonus game** added at the end.
 
 ---
 
-## 🛠 Cómo Jugar
+## 🎮 Included Games
 
-1. Clona este repositorio:
+- **Rock, Paper, Scissors**  
+  Play the classic strategy game against the computer.
+
+- **Hangman**  
+  Guess the hidden word before the full figure is drawn.
+
+- **Trivia (Geography)**  
+  Answer random geography questions correctly.
+
+- **Tic-Tac-Toe [Bonus]**  
+  A classic two-player game to get three in a row.
+
+---
+
+## 🛠 How to Play
+
+1. Clone this repository:
    ```bash
    git clone https://github.com/ArianaPapantonio/Final_project_module_1.git
-   ```
-
-2. Accede al directorio del proyecto:
+   
+2. Navigate to the project folder:
    ```bash
    cd Final_project_module_1
    ```
 
-3. Abre el archivo:
+3. Open the notebook file:
    ```bash
    Clase-juegos.ipynb
    ```
 
-4. Ejecuta las celdas de la notebook para iniciar cada juego.
+4. Run the notebook cells to launch each game.
 
 ---
 
-## 🎯 Instrucciones de Uso
+## 🎯 How It Works
 
-Cada juego proporciona instrucciones detalladas al iniciar.  
-Solo debes seguir las indicaciones en la consola:
+Each game includes instructions at the beginning.  
+Just follow the prompts in the console:
 
-- **Piedra, Papel o Tijera**: Elige entre `"piedra"`, `"papel"` o `"tijera"`.
-- **Ahorcado**: Introduce letras para intentar adivinar la palabra.
-- **Preguntas y Respuestas**: Contesta las preguntas de geografía correctamente.
-- **Tic-Tac-Toe**: Introduce la posición (por ejemplo: `a1`, `b2`, etc.) para marcar tu `"X"` o `"O"`.
-
----
-
-## 🧩 Metodología de Trabajo
-
-Utilizamos la metodología **Scrum** para organizarnos:
-
-- Definimos tareas en **sprints semanales**.
-- Trabajamos de forma **colaborativa** y **ágil** para alcanzar nuestros objetivos de desarrollo.
+- **Rock, Paper, Scissors**: Choose between `"rock"`, `"paper"`, or `"scissors"`.
+- **Hangman**: Type letters to guess the hidden word.
+- **Trivia**: Answer geography-related questions.
+- **Tic-Tac-Toe**: Enter a position (e.g., `a1`, `b2`, etc.) to place your `"X"` or `"O"`.
 
 ---
 
-## 📢 Nota
+## 🧩 Project Methodology
 
-Este proyecto fue desarrollado en el contexto de un **entorno de aprendizaje** y refleja el crecimiento de nuestras habilidades en Python.
+We followed the **Scrum** methodology to manage the project:
+
+- Tasks were organized into **weekly sprints**.
+- We worked **collaboratively and iteratively** to meet our development goals.
 
 ---
 
-# 🚀 ¡Esperamos que disfrutes jugando tanto como nosotras disfrutamos programándolo!
+## 📢 Note
+
+This project was created as part of a **learning environment** and reflects the progress of our Python programming skills.
+
+---
+
+# 🚀 We hope you enjoy playing as much as we enjoyed building it!
+
