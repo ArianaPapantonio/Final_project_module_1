@@ -1,6 +1,6 @@
 # 🐍 Final Project Module 1 – Classic Games in Python
 
-This project was developed by **Elena**, **Macarena**, **Patricia**, and **Ariana** as part of **Module 1: Basic Python** in the **Adalab Data Analytics Bootcamp**.  
+This project was developed by **Elena Duran Llanos**, **Ariana Papantonio**, **Macarena Peña**, and **Patricia Sainz** as part of **Module 1: Basic Python** in the **Adalab Data Analytics Bootcamp**.  
 Our goal was to create **three interactive games in Python**, with a **fourth bonus game** added at the end.
 
 ---
